@@ -1,6 +1,6 @@
-# Machine Learning Algorithms Implementation
+# Machine Learning 
 
-Welcome to the **Machine Learning ** repository! 🚀  
+Welcome to the **Machine Learning** repository! 🚀  
 This repository contains the implementation of various machine learning algorithms using Python. It serves as a comprehensive guide for understanding and applying these algorithms, providing clear code and documentation for each.
 
 ## 📋 Table of Contents
